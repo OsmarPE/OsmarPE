@@ -1,10 +1,8 @@
-## Hi there 👋
+# Hi, I'm Osmar Perera! 👋
 
+I'm a Front-End Developer passionate about exploring the latest in technology and continuously learning new skills.
+Here, you'll find my personal projects, including dashboards, service platforms, landing pages, and more. Feel free to explore and discover my work!
 <!--
-**OsmarPE/OsmarPE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
