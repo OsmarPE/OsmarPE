@@ -8,12 +8,12 @@ Here, you'll find my personal projects, including dashboards, service platforms,
 - 🏃 **Hobby:** I enjoy running in the park every day—it keeps me energized!  
 - 🎥 **Fun fact:** My favorite movies are *Interstellar* and *Tron: Legacy*.  
 
-## Some projects that i've had working
+## Some projects that i've had working ☕
 1. 🛒 Sales Administration System  
 2. 📊 Cattle Management Dashboard
 3. 🌐 Landing Page for Sales
 
-## Technologies that i use day to day
+## Technologies that i use day to day 🖥️ 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
@@ -26,6 +26,9 @@ Here, you'll find my personal projects, including dashboards, service platforms,
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+## My stats analytics 🌍
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osmarPE&theme=radical)](https://github.com/OsmarPE/github-readme-statstestin)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
