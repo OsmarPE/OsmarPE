@@ -28,7 +28,7 @@ Here, you'll find my personal projects, including dashboards, service platforms,
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ## My stats analytics 🌍
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osmarPE&theme=radical)](https://github.com/OsmarPE/github-readme-statstestin)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osmarPE&theme=dark)](https://github.com/OsmarPE/github-readme-statstestin)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
